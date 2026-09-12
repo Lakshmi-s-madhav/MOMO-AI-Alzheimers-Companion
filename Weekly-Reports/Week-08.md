@@ -10,4 +10,5 @@ Activities
 ●	Finalised the physical build, including the enclosure
 
 Outcome
+
 MOMO reached a finalised, demonstrable state ahead of the project display.
